@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:/down.php/*
+Disallow:/download.php*
+Disallow:/function.php/*
